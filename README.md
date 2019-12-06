@@ -6,7 +6,7 @@
 * Axel Patria ()
 * Arsheldy Alvin (00000028323)
 * Julando Omar ()
-* ~~Christian Kaunang~~ ()
+* Christian Kaunang ()
 
 ## Kinerja Kelompok :
 | Nama Anggota | Kinerja |
@@ -15,7 +15,7 @@
 | Axel Patria | Design, Perakitan, Testing |
 | Arsheldy Alvin | Design, Perakitan, Testing |
 | Julando Omar | Design, Perakitan, Testing |
-| ~~Christian Kaunang~~ | Testing |
+| Christian Kaunang | Testing |
 
 ## Proses Kerja :
 - [x] Design Robot
