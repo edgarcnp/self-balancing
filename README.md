@@ -16,7 +16,7 @@
 - [x] Jumper Wires
 - [x] 2x 18650 Battery (3.7 V)
 - [x] 18650 Battery Holder 2 Slot
-- [x] GY-521 Gyroscope
+- [x] GY-521 Gyroscope - MPU6050
 
 ## Proses Kerja :
 - [x] Design Robot
