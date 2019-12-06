@@ -6,7 +6,7 @@
 * Axel Patria (00000032597)
 * Arsheldy Alvin (00000028323)
 * Julando Omar (00000027458)
-* ~~Christian Kaunang~~ (000000)
+* Christian Kaunang (00000030714)
 
 ## Alat dan Bahan :
 - [x] 3D Printed Robot + Spacer nuts
