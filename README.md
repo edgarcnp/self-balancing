@@ -9,7 +9,7 @@
 * Christian Kaunang (00000030714)
 
 ## Alat dan Bahan :
-- [x] 3D Printed Robot + Spacer nuts
+- [x] 3D Printed Robot Body + Spacer nuts
 - [x] Arduino Nano
 - [x] L298N Motor Driver
 - [x] 2x DC Motor + Wheels
