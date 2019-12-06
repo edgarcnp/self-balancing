@@ -27,14 +27,14 @@
 - [x] Trial and Error
 - [ ] Self-Balance
 
-## References :
-[Self-Balancing Robot](https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot)
-
 ### setpoint, Kp, Ki, Kd Values :
 ```
-double setpoint= 180; 
+double setpoint= 180;
 
 double Kp = 115;
 double Kd = 0.7; 
 double Ki = 10;
 ```
+
+## References :
+[Self-Balancing Robot](https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot)
