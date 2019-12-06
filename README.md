@@ -2,7 +2,7 @@
 > Project UAS Pemodelan dan Simulasi - Self Balancing Robot
 
 ## Nama Kelompok : 
-* Edgar Christian (00000030573) :crown:
+* Edgar Christian (00000030573)
 * Axel Patria (00000032597)
 * Arsheldy Alvin (00000028323)
 * Julando Omar (00000027458)
