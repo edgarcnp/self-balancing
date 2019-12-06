@@ -2,7 +2,11 @@
 > Project UAS Pemodelan dan Simulasi - Self Balancing Robot
 
 ## Nama Kelompok : 
-Edgar Christian (00000030573) :+1:, Axel Patria () :+1:, Arsheldy Alvin (00000028323) :+1:, Julando Omar () :+1:, ~~Christian Kaunang~~ ()
+* Edgar Christian (00000030573) :+1:
+* Axel Patria () :+1:
+* Arsheldy Alvin (00000028323) :+1:
+* Julando Omar () :+1:
+* ~~Christian Kaunang~~ ()
 
 ## Kinerja Kelompok :
 | Nama Anggota | Kinerja |
@@ -20,7 +24,7 @@ Edgar Christian (00000030573) :+1:, Axel Patria () :+1:, Arsheldy Alvin (0000002
 - [x] Penyusunan Arduino dan Motor Driver
 - [x] Programming Arduino
 - [x] Trial and Error
-- [] Self-Balance
+- [ ] Self-Balance
 
 ## References :
 [Self-Balancing Robot](https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot)
