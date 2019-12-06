@@ -31,7 +31,7 @@
 
 ### setpoint, Kp, Ki, Kd Values :
 ```
-double setpoint= 170; 
+double setpoint= 180; 
 
 double Kp = 115;
 double Kd = 0.7; 
