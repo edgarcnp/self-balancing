@@ -19,8 +19,8 @@ float ypr[3];
 double setpoint= 180; 
 
 double Kp = 115;
-double Kd = 0; 
-double Ki = 0;
+double Kd = 0.7; 
+double Ki = 10;
 
 double input, output;
 PID pid(&input, &output, &setpoint, Kp, Ki, Kd, DIRECT);
