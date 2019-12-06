@@ -27,7 +27,7 @@
 - [x] Trial and Error
 - [ ] Self-Balance
 
-### setpoint, Kp, Ki, Kd Values :
+### setpoint, Kp, Kd, Ki Values :
 ```
 double setpoint= 180;
 
