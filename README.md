@@ -8,14 +8,15 @@
 * Julando Omar (00000027458)
 * ~~Christian Kaunang~~ (000000)
 
-## Kinerja Kelompok :
-| Nama Anggota | Kinerja |
-|--------------|---------|
-| Edgar Christian | Coding, Perakitan, Testing |
-| Axel Patria | Design, Perakitan, Testing |
-| Arsheldy Alvin | Design, Perakitan, Testing |
-| Julando Omar | Design, Perakitan, Testing |
-| Christian Kaunang | Testing |
+## Alat dan Bahan :
+- [x] 3D Printed Robot + Spacer nuts
+- [x] Arduino Nano
+- [x] L298N Motor Driver
+- [x] 2x DC Motor + Wheels
+- [x] Jumper Wires
+- [x] 2x 18650 Battery (3.7 V)
+- [x] 18650 Battery Holder 2 Slot
+- [x] GY-521 Gyroscope
 
 ## Proses Kerja :
 - [x] Design Robot
