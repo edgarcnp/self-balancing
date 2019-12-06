@@ -5,12 +5,13 @@
 Edgar Christian (00000030573) :+1:, Axel Patria () :+1:, Arsheldy Alvin (00000028323) :+1:, Julando Omar () :+1:, ~~Christian Kaunang~~ ()
 
 ## Kinerja Kelompok :
-- Nama Anggota | Kinerja
-- Edgar | Coding, Perakitan, Testing
-- Axel | Design, Perakitan, Testing
-- Alvin | Design, Perakitan, Testing
-- Ando | Design, Perakitan, Testing
-- ~~Christian~~ | Testing
+| Nama Anggota | Kinerja |
+|--------------|---------|
+| Edgar | Coding, Perakitan, Testing |
+| Axel | Design, Perakitan, Testing |
+| Alvin | Design, Perakitan, Testing |
+| Ando | Design, Perakitan, Testing |
+| ~~Christian~~ | Testing |
 
 ## Proses Kerja :
 - [x] Design Robot
