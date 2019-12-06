@@ -21,7 +21,7 @@
 - [x] Design Robot
 - [x] 3D Print
 - [x] Perakitan
-- [x] Penyusunan Arduino dan Motor Driver
+- [x] Penyusunan Arduino [Nano] dan Motor Driver [L298N]
 - [x] Programming Arduino
 - [x] Trial and Error
 - [ ] Self-Balance
