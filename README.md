@@ -3,10 +3,10 @@
 
 ## Nama Kelompok : 
 * Edgar Christian (00000030573) :crown:
-* Axel Patria ()
+* Axel Patria (00000032597)
 * Arsheldy Alvin (00000028323)
-* Julando Omar ()
-* Christian Kaunang ()
+* Julando Omar (00000027458)
+* ~~Christian Kaunang~~ (000000)
 
 ## Kinerja Kelompok :
 | Nama Anggota | Kinerja |
