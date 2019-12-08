@@ -1,5 +1,6 @@
 # self-balancing
 > Project UAS Pemodelan dan Simulasi - Self Balancing Robot
+![](C://Users/User/Desktop/logo_TEKNIK_KOMP.png)
 
 ## Nama Kelompok : 
 * Edgar Christian (00000030573)
